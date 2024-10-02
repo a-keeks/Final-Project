@@ -28,7 +28,7 @@
 ## Distribution
 
 - The dataset is available through the Kaggle platform and may be subject to Kaggles terms of use.
-- The dataset is subject to Attribution 4.0 International licenceing laws <https://creativecommons.org/licenses/by/4.0/>.
+- The dataset is subject to Attribution 4.0 International licencing laws <https://creativecommons.org/licenses/by/4.0/>.
 
 ## Maintenance
 
