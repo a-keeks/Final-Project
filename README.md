@@ -49,5 +49,5 @@ While the model is reasonably accurate, there’s still room for improvement, su
 ![Confusion Matrix using Random Forest](output.png)
 
 
-## (CONTACT DETAILS:)
+## CONTACT DETAILS:
 EMAIL: akilaambady@yahoo.co.uk
